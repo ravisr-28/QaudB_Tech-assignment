@@ -46,8 +46,9 @@ npm run dev
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="login-screen.png" alt="Login Screen" width="300"/>
-  <img src="todo-dashboard.png" alt="Todo Dashboard" width="300"/>
+  <img src="images/desktop.png" alt="Login Screen" width="300"/>
+  <img src="images/mobile-1.png" alt="Todo Dashboard" width="300"/>
+  <img src="images/mobile-2.png" alt="Todo Dashboard" width="300"/>
 </div>
 
 ## 🤝 Contributing
